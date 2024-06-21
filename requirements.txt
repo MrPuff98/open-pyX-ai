@@ -1,14 +1,10 @@
-sklearn
 pandas
 torch
 torchvision
 torchaudio
+torchmetrics
 tensorboard
 matplotlib
-nbformat
-
-# Windows only
-# PySoundFile
-
-# Linux only
-# sox
+numpy
+scipy
+sklearn
