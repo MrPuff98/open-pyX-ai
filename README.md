@@ -21,7 +21,7 @@ To proceed, simply run one of the following scripts:
     
 ##########################################
     Deep learning-based approach implementation:
-    genXRD_mode##.py - generates synthetic XRD patterns for further use to train DecCNN
+    genXRD_mode.py - generates synthetic XRD patterns for further use to train DecCNN
     
     
     pyNNLearn.py - trains and validates DecCNN on the basis of specified synthetic data sets
